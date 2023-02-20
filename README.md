@@ -7,13 +7,13 @@ I used fluoroscopic transformation and histogram normalization to solve the degr
 This program was able to recognize text messages not only from pictures taken on the Internet but also from pictures taken in person.
 
 The development environment is as follows
-  ㆍPython 3.11.0
-  ㆍOpen cv-python 4.6.0.66
-  ㆍPytesseract 0.3.10
-  ㆍgTTS 2.3.0
-  ㆍPlaysound 1.3.0
-  ㆍMatplotlib 3.6.2
-  ㆍPillow 9.3.0
+  1. Python 3.11.0
+  2. Open cv-python 4.6.0.66
+  3. Pytesseract 0.3.10
+  4. gTTS 2.3.0
+  5. Playsound 1.3.0
+  6. Matplotlib 3.6.2
+  7. Pillow 9.3.0
   
 Plan to proceeding
   1. Real-time processing via IP webcam
